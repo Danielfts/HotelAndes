@@ -1,4 +1,4 @@
-FROM eclipse-temurin:21
+FROM eclipse-temurin:17
 
 RUN apt update && apt upgrade -y \
     && DEBIAN_FRONTEND=noninteractive apt install -y \
