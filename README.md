@@ -1,5 +1,7 @@
 # HotelAndes
 
+Old incomplete version of a university course project on relational databases
+
 Clone repo & run
 
 > ./gradlew bootRun
